@@ -1,4 +1,4 @@
-## Hi I am gussi55👋
+## Hi I am Parkhomenko Danyil👋
 
 I am 15 years old teen thta likes CS DS ML and so on.
 
