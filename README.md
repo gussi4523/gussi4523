@@ -1,12 +1,78 @@
-## Hi I am Parkhomenko Danyil👋
+<h1 align="center">Hi, I'm Danyil 👋</h1>
 
-I am 15 years old teen thta likes CS DS ML and so on.
+<p align="center">
+  <b>Developer · Data Science · Machine Learning</b>
+</p>
 
-Also i need work
- 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/gussi55) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tiorg453@gmail.com) 
+<p align="center">
+  Building projects, exploring data, and turning ideas into working software.
+</p>
 
-# 💻 Tech Stack:
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+<p align="center">
+  <a href="https://github.com/gussi55">
+    <img src="https://img.shields.io/badge/GitHub-gussi55-181717?style=flat-square&logo=github" alt="GitHub">
+  </a>
+  <a href="mailto:tiorg453@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20me-555555?style=flat-square&logo=gmail&logoColor=white" alt="Email">
+  </a>
+</p>
 
+---
+
+### `$ whoami`
+
+I'm a developer interested in the intersection of **software engineering, data science, and machine learning**.
+
+I enjoy building things from scratch, experimenting with algorithms, and learning by working on projects that solve real problems.
+
+- 🧠 Exploring machine learning, statistical modeling, and data analysis
+- 📊 Building data science projects and experimenting with predictive models
+- ⚙️ Developing applications, APIs, and backend systems
+- 🔬 Interested in AI, quantitative finance, and data-driven decision-making
+- 📈 Focused on improving through practical work, not just tutorials
+
+### `$ tech --stack`
+
+**Languages**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,typescript,javascript,html,css" alt="Python, TypeScript, JavaScript, HTML and CSS">
+</p>
+
+**Backend & Databases**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,flask,postgres,supabase" alt="Node.js, Express, Flask, PostgreSQL and Supabase">
+</p>
+
+**Frontend & Tools**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,threejs,git,github,linux,vscode" alt="React, Next.js, Three.js, Git, GitHub, Linux and VS Code">
+</p>
+
+**Data Science & ML**
+
+`NumPy` · `Pandas` · `Scikit-learn` · `Matplotlib`
+
+### `$ current_interests`
+
+| Area | Exploring |
+|:--|:--|
+| Data Science | Feature engineering, model evaluation, predictive modeling |
+| Machine Learning | Classical ML, neural networks, applied AI |
+| Software Engineering | Backend development, APIs, system design |
+| Quantitative Finance | Statistical strategies, market data, volatility modeling |
+
+### `$ github --activity`
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=gussi55&show_icons=true&hide_border=true&bg_color=00000000&title_color=58A6FF&icon_color=58A6FF&text_color=8B949E&include_all_commits=true" alt="GitHub Stats">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gussi55&layout=compact&hide_border=true&bg_color=00000000&title_color=58A6FF&text_color=8B949E" alt="Most Used Languages">
+</p>
+
+---
+
+<p align="center">
+  <i>Learn by building. Improve through iteration.</i>
+</p>
