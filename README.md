@@ -65,14 +65,6 @@ Explore my repositories for more projects and experiments.
   </a>
 </p>
 
-### `04 / GitHub Activity`
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=gussi55&show_icons=true&hide_border=true&bg_color=00000000&title_color=58A6FF&icon_color=58A6FF&text_color=8B949E" alt="GitHub statistics">
-  &nbsp;
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gussi55&layout=compact&hide_border=true&bg_color=00000000&title_color=58A6FF&text_color=8B949E" alt="Most used programming languages">
-</p>
-
 ---
 
 <p align="center">
